@@ -50,27 +50,34 @@ export const robots = [
 
 	{
 		id: 8,
+		name: 'Ruchitha',
+		username: 'Ruchi',
+		email: 'ruchi@gmail.com',
+	},
+
+	{
+		id: 9,
 		name: 'Nithin Mishra',
 		username: 'Nithin',
 		email: 'nithin@gmail.com',
 	},
 
 	{
-		id: 9,
+		id: 10,
 		name: 'Arshath Raj',
 		username: 'Arshath',
 		email: 'arshath@gmail.com',
 	},
 
 	{
-		id: 10,
+		id: 11,
 		name: 'Neeraj Sunil',
 		username: 'Neeraj',
 		email: 'neeraj@gmail.com',
 	},
 
 	{
-		id: 11,
+		id: 12,
 		name: 'Sofia',
 		username: "Sofi",
 		email: 'sofia@gmail.com',
