@@ -22,9 +22,9 @@ export const robots = [
 
 	{
 		id: 4,
-		name: 'Jenisha Gopinath',
-		username: 'Jenisha',
-		email: 'jenishagopinath@gmail.com',
+		name: 'Deepthi Caroline',
+		username: 'Deepthi',
+		email: 'deepthivino9@gmail.com',
 	},
 
 	{
