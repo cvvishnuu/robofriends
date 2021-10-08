@@ -38,7 +38,7 @@ export const robots = [
 		id: 6,
 		name: 'Dharmish',
 		username: 'Dharmish',
-		email: 'dharmish@gmail.com',
+		email: 'dharmisha@gmail.com',
 	},
 
 	{
